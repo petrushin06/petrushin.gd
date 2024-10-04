@@ -14,4 +14,4 @@ for i in range(1, 10):
     N = i * num
     print(N)
 '''
-
+hjksl;dsfdjbj
